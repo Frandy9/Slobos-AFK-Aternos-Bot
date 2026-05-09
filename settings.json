@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "9cTheBestMine.aternos.me",
+    "port": 20171,
+    "version": "1.16.5",
     "try-creative": false
   },
   "position": {
